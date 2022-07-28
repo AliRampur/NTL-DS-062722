@@ -1,6 +1,8 @@
 # This is Alis first change
 ## NTL-DS-062722's Cohort Repository!
 
+GREG'S VERSION IS THE BESTEST OF ALL TIME!
+
 A repository for all lecture, review, or other resources for the Flatiron School's Live Data Science 022122 Cohort.
 
 ![uh-oh](https://media.giphy.com/media/igDIvcIMMGIne/giphy.gif)
